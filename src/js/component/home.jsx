@@ -1,7 +1,7 @@
 import propTypes from "prop-types";
 import React from "react";
 import ReactDOM from "react-dom";
-
+import "./../../styles/index.css";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faClock } from '@fortawesome/free-solid-svg-icons';
 
